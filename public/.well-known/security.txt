@@ -1,0 +1,4 @@
+Contact: mailto:contact@emanuels.review
+Preferred-Languages: en, de
+Canonical: https://alt.emanuels.review/.well-known/security.txt
+Policy: https://emanuels.review/security
